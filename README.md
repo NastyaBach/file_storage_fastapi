@@ -1,20 +1,16 @@
 # File Storage FastAPI + SQLAlchemy
 
-1. Create virtualenv & run:
+Сервис для загрузки файлов.
+
+1. Создать virtualenv & run:
 
     ```
     $ pip install -r requirements.txt
     ```
 
-2. Run service with command:
+2. Запустить:
     ```
     $ uvicorn app:app --reload
     ```
 
-3. To run tests, execute in terminal:
-    ```
-    $ cd tests
-    $ pytest
-    ```
-
-4. You can read task in task.md
+3. Подробное описание в task.md
