@@ -12,3 +12,5 @@
     ```
     $ uvicorn app:app --reload
     ```
+
+Подробнее - project.md
