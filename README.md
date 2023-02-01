@@ -12,5 +12,3 @@
     ```
     $ uvicorn app:app --reload
     ```
-
-3. Подробное описание в task.md
